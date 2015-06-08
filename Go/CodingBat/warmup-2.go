@@ -1,9 +1,6 @@
 package warmup2
 
-import (
-	"fmt"
-	"math"
-)
+import "math"
 
 /*
   Given a string and a non-negative int n, return a larger string that is n copies of the original string.
