@@ -1,0 +1,13 @@
+[Ruby/new-repo] Create an App
+[Go/new-repo] Create an App
+[Go/new-repo] Create a Package
+[Go/code-dump] Learn something related to the language
+[Python/new-repo] Create an App
+[Python/new-repo] Learn something related to scripting
+[Programming/code-dump] Dive into a new programming language
+[Programming/code-dump] Implement an algorithm in any language
+[Codecademy/new-repo] Finish a Course
+[Github/fork] Contribute to an existing project (Back End)
+[Github/fork] Contribute to an existing project (Front End)
+[Github/fork] Contribute to an existing project (Documentation)
+[Github/blog] Write a Blog Post
