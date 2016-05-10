@@ -1,5 +1,5 @@
 # Code Dump
-This repository stores a small fraction of code snippets I've written over the years. I've written most of them while learning new programming languages or concepts, so you'll probably find a number of awkward coding practices here and there. Please don't judge me too much 😭 
+This repository stores a small fraction of code snippets I've written over the years. I've written most of them while learning new programming languages or concepts, so you'll probably find a number of awkward coding practices in a few places. As such, a code dump!
 
 Branches in this repo are organized by year, and each branch includes code snippets categorised by the language they were written in.
 
